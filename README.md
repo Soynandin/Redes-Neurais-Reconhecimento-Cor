@@ -145,8 +145,8 @@ Em resumo, a qualidade das imagens e a variedade de cores presentes nelas têm u
 
 ### Contribuições
 
-Se você deseja contribuir para este projeto, aqui estão algumas ideias de melhorias:
+Se você deseja contribuir para este projeto, aqui uma ideia de melhoria:
 
-1. **Puxar imagens pela web**:  
+- **Puxar imagens pela web**:  
    Uma sugestão seria adicionar uma funcionalidade para puxar imagens diretamente da web, utilizando bibliotecas como `requests` para baixar imagens de URLs. Isso poderia permitir que os usuários façam upload de imagens sem precisar salvá-las localmente primeiro. 
 
