@@ -140,3 +140,13 @@ O modelo de IA depende fortemente da informação contida nas cores das imagens 
 O modelo de IA tenta associar as características de cada cor aos rótulos correspondentes durante o treinamento. Uma **maior diversidade de imagens** com uma gama variada de tonalidades e cores irá ajudar o modelo a aprender a reconhecer as cores de maneira mais robusta e precisa. Se as imagens de treinamento forem muito similares em termos de cor ou iluminação, o modelo pode ter dificuldades em generalizar suas previsões para imagens novas ou variadas.
 
 Em resumo, a qualidade das imagens e a variedade de cores presentes nelas têm um impacto direto na capacidade da rede neural de fazer previsões corretas. Quanto mais variado e representativo for o conjunto de imagens em termos de cores, melhor será o desempenho do modelo ao identificar as cores predominantes em novas imagens.
+
+---
+
+### Contribuições
+
+Se você deseja contribuir para este projeto, aqui estão algumas ideias de melhorias:
+
+1. **Puxar imagens pela web**:  
+   Uma sugestão seria adicionar uma funcionalidade para puxar imagens diretamente da web, utilizando bibliotecas como `requests` para baixar imagens de URLs. Isso poderia permitir que os usuários façam upload de imagens sem precisar salvá-las localmente primeiro. 
+
